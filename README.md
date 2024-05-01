@@ -3,6 +3,6 @@
 ___
 
  
-![imagenes](img/imagen1.JPG)
+![imagenes](imagenes/imagen1.JPG)
 
 ___
